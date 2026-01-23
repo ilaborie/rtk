@@ -42,7 +42,7 @@ With rtk: **~45,000 tokens** → **70% reduction**
 
 ### Quick Install (Linux/macOS)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/pszymkowiak/rtk/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/pszymkowiak/rtk/master/install.sh | sh
 ```
 
 ### Homebrew (macOS)
